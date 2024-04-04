@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .btn-cta {
+    background: linear-gradient(#93c47d, #6aa84f);
+    border-radius: 11px;
+    box-shadow: 2px 2px 3px #44444466;
+    padding: 16px 45px;
+    color: #ffffff;
+    display: inline-block;
+    font: normal 1.3rem sans-serif;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .btn-cta:hover {
+    background: #333;
+  }
